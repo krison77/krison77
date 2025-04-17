@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### **I am currently working on**
+##  1. Growing my company
+##  2. Growing my data science skills
+##  3. Growing my coding skills
+##  4. Growing my technical skills
+### I am currently learning about Deeplearning 4J and how to use Java for Data Science
